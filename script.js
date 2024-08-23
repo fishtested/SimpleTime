@@ -112,4 +112,4 @@ document.getElementById('currentdate').textContent = currentDate;
 
 updateTimeAndDate();
 }
-setInterval(updateTimeAndDate, 1); // updates date and time every millisecond
+setInterval(updateTimeAndDate, 750); // updates date and time every 750 milliseconds
