@@ -1,5 +1,5 @@
 # SimpleTime
- A simple, web page that displays the user's current time and date.
+ A simple web page that displays the user's current time and date.
  
 # How it works
 SimpleTime displays the time and date from the user's browser.
